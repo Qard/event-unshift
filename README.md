@@ -1,5 +1,7 @@
 # event-unshift
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/event-unshift.svg)](https://greenkeeper.io/)
+
 Add event listeners before existing listeners.
 
 ### Install
